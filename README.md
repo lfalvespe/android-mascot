@@ -4,4 +4,8 @@ Página em HTML sobre a história do mascote do android. Criada como atividade d
 
 <hr>
 
+<div align="center">
 Visualizar site: http://lfalvespe.github.io/android-mascot
+<br><br>
+<img src="prints/print.PNG" width=600>
+</div>
